@@ -3,10 +3,6 @@
 * create a login to notebooklm.google.com (I prefer notebooklm over other interfaces, but it's up to you)
 * upload this as a source
 * use the notebook guide and produce the five prompts given
-* use the following prompt:
-  * Act as a CSV guru, take the az104_summeries.md source and produce a list of 50 questions based on each summary section and provide answers.  output the list of terms and questions in CSV format for copy-and-paste, with the following column headers: "terms" which should contain the terms and questions, "definitions" which should contain the definitions and answers.
-* take this CSV and import it into scholarsome.com
-
 
 ## summary Azure Resource Manager
 * resources are azure managed entities, like VMs, storage accounts, VNets
@@ -530,4 +526,3 @@
   * backup jobs
   * backup items
   * summary of estate
-
